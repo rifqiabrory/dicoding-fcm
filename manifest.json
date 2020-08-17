@@ -1,0 +1,8 @@
+{
+    "name": "Push Notifications FCM",
+    "short_name": "Push Notifications FCM",
+    "description": "Push Notifications FCM",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "gcm_sender_id": "456469480760"
+}
